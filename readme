@@ -1,0 +1,7 @@
+1. npm install scribble
+2. node male.js
+3. enter code in Upper Case ( Make sure the code is 12 Digits)
+4. hit enter (generates a midi file)
+5. drag midi file to your favourite DAW or Music Editing software (Logic Pro, fl studio, avid... etc)
+6. select your favorite sound
+7. export as wav or mp3
