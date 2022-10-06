@@ -1,5 +1,5 @@
 1. npm install scribble
-2. node male.js
+2. node main.js
 3. enter code in Upper Case ( Make sure the code is 12 Digits)
 4. hit enter (generates a midi file)
 5. drag midi file to your favourite DAW or Music Editing software (Logic Pro, fl studio, avid... etc)
